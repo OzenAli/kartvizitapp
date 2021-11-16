@@ -1,0 +1,6 @@
+{
+"cards":[
+    {"id":1,"title":"Backend Developer","name":"Fatih KOBACIK","phone":"555 666 77 88","email":"asdasd","address":"asdasd"},
+    {"id":2,"title":"Frontend Developer","name":"Mehmet SERT","phone":"555 444 33 22","email":"gdfgdfg","address":"wqeqwe"}   
+]
+}
